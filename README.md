@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # HARINAATH
 
@@ -172,12 +172,12 @@ A machine-learning project focused on predicting solar power generation using en
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harinaath7777&theme=github_dark" width="450" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harinaath7777&theme=github_dark" width="450" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harinaathb&theme=github_dark" width="450" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harinaathb&theme=github_dark" width="450" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harinaath7777&theme=dark&border_radius=10" width="450" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=harinaathb&theme=dark&border_radius=10" width="450" alt="GitHub Streak" />
 </p>
 
 ---
@@ -185,7 +185,7 @@ A machine-learning project focused on predicting solar power generation using en
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaath7777&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaathb&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
 </p>
 
 ---
@@ -194,9 +194,9 @@ A machine-learning project focused on predicting solar power generation using en
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harinaath7777/harinaath7777/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harinaath7777/harinaath7777/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/harinaath7777/harinaath7777/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harinaathb/harinaathb/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harinaathb/harinaathb/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/harinaathb/harinaathb/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
   </picture>
 </p>
 
@@ -218,7 +218,7 @@ I'm interested in:
 
 <p align="center">
 
-<a href="https://github.com/harinaath7777">
+<a href="https://github.com/harinaathb">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
@@ -242,6 +242,6 @@ I'm interested in:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=harinaath7777&label=PROFILE+VIEWS&color=00BFFF&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=harinaathb&label=PROFILE+VIEWS&color=00BFFF&style=flat" alt="Profile Views" />
 
 </div>
