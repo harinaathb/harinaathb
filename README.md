@@ -1,21 +1,14 @@
- <div align="center">
+<div align="center">
 
-# HARINAATH
+# Harinaath B
 
-### Software Engineering Student • AI Engineer in Training
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+LLM+Engineering;RAG+%7C+Agentic+AI+%7C+Backend+Engineering;Building+Practical+AI+Systems" alt="Typing SVG" />
+**Integrated M.Tech Software Engineering @ VIT Chennai**
+AI Engineering · LLM Systems · Backend Development
 
 <p>
-  <a href="https://github.com/harinaathb">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="mailto:harinaath.b2024official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
+  <a href="https://github.com/harinaathb"><img src="https://img.shields.io/badge/GitHub-harinaathb-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/harinaathb/"><img src="https://img.shields.io/badge/LinkedIn-harinaathb-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:harinaath.b2024official@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
 </div>
@@ -24,224 +17,137 @@
 
 ## About
 
-I'm an **Integrated M.Tech Software Engineering student at VIT Chennai**, focused on building intelligent software systems at the intersection of **AI and software engineering**.
+I build intelligent software systems at the intersection of **AI and software engineering**, from model experimentation through to full-stack, production-oriented applications.
 
-My current interests include **Machine Learning, Deep Learning, NLP, LLM Engineering, RAG, Agentic AI, backend development, and MLOps**.
-
-I enjoy turning concepts into working systems — from model experimentation to full-stack AI applications.
+**Currently exploring:** Retrieval-Augmented Generation (RAG) · Agentic AI workflows · LLM engineering · MLOps
 
 ---
 
-## Engineering Focus
+## Technical Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- LLM Engineering
-- Generative AI
-- Retrieval-Augmented Generation
-- AI Agents
-- Agentic Workflows
-
-</td>
-<td width="50%" valign="top">
-
-### Software Engineering
-
-- Java
-- Python
-- Spring Boot
-- React
-- Node.js
-- REST APIs
-- MongoDB
-- Data Structures & Algorithms
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Cloud & DevOps
-
-- AWS
-- Docker
-- MLOps
-- CI/CD
-- Linux
-- Cloud Fundamentals
-
-</td>
-<td width="50%" valign="top">
-
-### Developer Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter
-- Ollama
-- API Development
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
+| Domain | Technologies |
+| :-- | :-- |
+| **AI / ML** | Machine Learning, Deep Learning, NLP, LLM Engineering, Generative AI, RAG, AI Agents |
+| **Languages** | Python, Java, C, JavaScript |
+| **Backend** | Spring Boot, Node.js, Express, REST APIs, MongoDB |
+| **Frontend** | React |
+| **Cloud & DevOps** | AWS, Docker, CI/CD, Linux, MLOps |
+| **Tools** | Git, GitHub, VS Code, Jupyter, Ollama |
+| **Fundamentals** | Data Structures & Algorithms |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,spring,mongodb,git,github,docker,aws,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,spring,mongodb,git,github,docker,aws,linux&theme=dark" alt="Tech stack icons" />
 </p>
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-### AI-Powered Resume Intelligence Platform
+### [AIRA-AI](https://github.com/harinaathb/AIRA-AI)
+*Autonomous AI research agent · Python*
 
-**AI + Full-Stack Application**
+A production-ready research agent that runs multi-source web search, reranks passages with neural semantic models, and streams answers in real time, with interactive follow-up support.
 
-An intelligent resume analysis and career assistance platform designed to help candidates identify skill gaps and improve their resumes.
-
-**Stack:** React • Node.js • Express • MongoDB • Gemini API • JWT • Puppeteer
-
-**Key capabilities**
-
-- Resume parsing and skill extraction
-- AI-powered skill-gap analysis
-- ATS optimization
-- Career assistance
-- AI-generated interview preparation
-- Resume generation
+- Multi-source web search
+- Neural semantic passage reranking
+- Real-time streaming answer generation
 
 ---
 
-### Local LLM Assistant
+### [Interview Prep AI (SaaS)](https://github.com/harinaathb/interview-prepAI-saas)
+*AI career platform · JavaScript*
 
-**Local AI Application**
+An AI-powered interview preparation platform that analyzes candidate profiles against job descriptions to produce personalized preparation material.
 
-A privacy-focused conversational AI application built around locally hosted language models.
+- 30-day skill-gap roadmaps
+- Technical and behavioral question generation
+- ATS-optimized resume compilation
 
-**Stack:** Python • Streamlit • Ollama • Llama
-
-**Key capabilities**
-
-- Local LLM inference
-- Streaming responses
-- Conversational interface
-- Session-based chat history
-- No dependency on external model hosting
+**Stack:** `React` `Node.js` `Express` `MongoDB` `Gemini API` `JWT` `Puppeteer`
 
 ---
 
-### Solar Power Generation Prediction
+### [Solar PV Power Generation Forecasting Engine](https://github.com/harinaathb/Solar-PV-Power-Generation-Forecasting-Engine-National-Grid-Intelligence-Platform)
+*Machine learning platform · Python / HTML*
 
-**Machine Learning Forecasting**
+An end-to-end ML platform that forecasts solar PV power generation across 17 installations, with an interactive analytics dashboard.
 
-A machine-learning project focused on predicting solar power generation using ensemble gradient-boosting models.
+- Microclimate feature engineering
+- Model training and comparison
+- Interactive analytics dashboard
 
-**Models:** CatBoost • LightGBM • XGBoost
+**Models:** `CatBoost` `LightGBM` `XGBoost`
 
-**Focus areas**
+---
 
-- Data preprocessing
-- Feature engineering
-- Model training
-- Model comparison
-- Solar power prediction
+### [Local LLM Assistant](https://github.com/harinaathb/Local-LLM-Assistant)
+*Privacy-focused local AI · Python*
+
+A privacy-focused AI assistant powered by Llama 3.2 and Ollama, with real-time response streaming and session-based conversation history. No external model hosting required.
+
+**Stack:** `Python` `Streamlit` `Ollama` `Llama 3.2`
+
+---
+
+### [Corridor Mobility](https://github.com/harinaathb/corridor-mobility)
+*Transport infrastructure · JavaScript*
+
+Corridor-binning and dynamic multi-drop ride-pooling infrastructure for airport transport hubs.
 
 ---
 
 ## Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/B_harinaath?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/B_harinaath?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode stats" />
 </p>
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harinaathb&theme=github_dark" width="450" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harinaathb&theme=github_dark" width="450" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harinaathb&theme=github_dark" width="49%" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harinaathb&theme=github_dark" width="49%" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harinaathb&theme=dark&border_radius=10" width="450" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=harinaathb&theme=dark&border_radius=10" width="49%" alt="GitHub streak" />
 </p>
 
----
-
-## Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaathb&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harinaathb&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution activity graph" />
 </p>
 
 ---
 
-## Contribution Snake
+## Contribution Koi
+
+A koi pond redrawn every night from my public GitHub activity. The koi grows as my contributions grow.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harinaathb/harinaathb/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harinaathb/harinaathb/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/harinaathb/harinaathb/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="koi/koi-dark.gif" />
+    <img src="koi/koi-light.gif" width="500" alt="Two koi circling a lily pond, drawn from my GitHub activity" />
   </picture>
+</p>
+
+<p align="center">
+  <sub>Generated by <a href="https://github.com/yalongwastaken/git-koi">Git Koi</a></sub>
 </p>
 
 ---
 
 ## Open Source & Collaboration
 
-I'm interested in:
-
-- Open-source contributions
-- AI and software engineering projects
-- Hackathons
-- Collaborative development
-- Building production-oriented applications
+I'm open to open-source contributions, AI and software engineering projects, hackathons, and collaborative production-oriented development.
 
 ---
 
-## Connect
+## Get in Touch
 
 <p align="center">
-
-<a href="https://github.com/harinaathb">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-
-<a href="mailto:harinaath.b2024official@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
+  <a href="https://github.com/harinaathb"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/harinaathb/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="mailto:harinaath.b2024official@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
-
----
-
-<div align="center">
-
-### SYSTEM STATUS
-
-`BUILD` → `LEARN` → `EXPERIMENT` → `DEBUG` → `DEPLOY`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=harinaathb&label=PROFILE+VIEWS&color=00BFFF&style=flat" alt="Profile Views" />
-
-</div>
