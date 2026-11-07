@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00BFFF&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+LLM+Engineering;RAG+%7C+Agentic+AI+%7C+Backend+Engineering;Building+Practical+AI+Systems" alt="Typing SVG" />
 
 <p>
-  <a href="https://github.com/harinaath7777">
+  <a href="https://github.com/harinaathb">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
   <a href="https://www.linkedin.com/">
